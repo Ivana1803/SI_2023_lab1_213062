@@ -1,0 +1,44 @@
+$ git log
+commit aac69ae0375eee1de218c8da5414d06fa4bf5318 (HEAD -> bug3, origin/master, origin/bug3, master)
+Merge: 6bac38e 79d8483
+Author: Ivana1803 <ivana.gjorgievska@students.finki.ukim.mk>
+Date:   Sun Apr 9 00:25:06 2023 +0200
+
+    Merge branch 'bug3'
+
+commit 6bac38e969c10f503c65d68a645637ab82db90b9
+Merge: a49faf8 459045a
+Author: Ivana1803 <ivana.gjorgievska@students.finki.ukim.mk>
+Date:   Sun Apr 9 00:21:55 2023 +0200
+
+    Merge branch 'bug1'
+
+commit 79d8483556f3b0d8675eb83dcd59c60bc3648c85
+Author: Ivana1803 <ivana.gjorgievska@students.finki.ukim.mk>
+Date:   Sat Apr 8 22:52:47 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 459045a5c46a5d59b2849c4a4a06796d069a410a (origin/bug2, bug2)
+Author: Ivana1803 <ivana.gjorgievska@students.finki.ukim.mk>
+Date:   Sat Apr 8 22:49:08 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit a49faf8e235a39109d644f3096814f195e3a1d7e (origin/bug1, bug1)
+Author: Ivana1803 <ivana.gjorgievska@students.finki.ukim.mk>
+Date:   Sat Apr 8 22:37:18 2023 +0200
+
+    Fix wrong loop for reading
+
+commit 0a453a172a54816c92e5d9cf4747287e724e9d70
+Author: Ivana1803 <ivana.gjorgievska@students.finki.ukim.mk>
+Date:   Sat Apr 8 22:09:13 2023 +0200
+
+    Add java class
+
+commit a97b3ee7f0ac82ef5807e4313ac731bef9ef4a87
+Author: Ivana1803 <ivana.gjorgievska@students.finki.ukim.mk>
+Date:   Sat Apr 8 21:56:47 2023 +0200
+
+    Initial commit
